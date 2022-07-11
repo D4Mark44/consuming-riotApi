@@ -10,7 +10,7 @@
 - [x] Consumindo API da RIOT
 - [x] Manipulando dados para exibição
 
-### Tecnologias
+### Techs
 - ReactJS 🔵
 - Typescript 🟦
 - Axios 🟣
